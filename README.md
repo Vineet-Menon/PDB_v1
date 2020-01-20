@@ -8,9 +8,9 @@
  This Power Distribution Board's PCB layout was designed on Autodesk Eagle and 3D model with all Wire-to-board connectors and SMD components connected is designed on Autodesk Fusion 360.
   
  Data provided:
- 1) Schematic and board file of PCB.
+ 1) Schematic and board file of PCB
  2) 3D model (.step file) of the PCB
  3) Gerber file
  4) All eagle libraries used for this PCB layout
  5) Bill of material(BOM) in a .docx file
- 6) Datasheet of most of the components.
+ 6) Datasheets of most of the components used
